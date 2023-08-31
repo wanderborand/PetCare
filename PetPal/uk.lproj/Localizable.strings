@@ -1,0 +1,202 @@
+/* 
+  Localizable.strings
+  PetPal
+
+  Created by Andrew on 21.05.2023.
+  
+*/
+
+//WELCOME PAGES Screen 1
+"welcomeTitlePageOne" = "Знаходьте друзів і дбайте про них";
+"welcomeSubTitlePageOne" = "PetPal - це мобільний додаток, який допомагає власникам тварин знайти нових друзів для своїх улюбленців і забезпечити їм кращий догляд.";
+
+//WELCOME PAGES Screen 2
+"welcomeTitlePageTwo" = "Доглядайте за своїми тваринами легко";
+"welcomeSubTitlePageTwo" = "З PetPal ви зможете забезпечити власним тваринам всебічний догляд. Використовуйте наші зручні інструменти по догляду за домашніми улюбленцями.";
+
+//WELCOME PAGES Screen 3
+"welcomeTitlePageThree" = "Зручний доступ до послуг";
+"welcomeSubTitlePageThree" = "PetPal допоможе вам знайти найкращих фахівців, таких як ветеринари, грумери і доглядачі за тваринами.";
+
+//WELCOME PAGES BUTTON
+"Continue" = "Продовжити";
+"Next" = "Ділі";
+
+//WELCOME PAGES BUTTON
+"Continue" = "Продовжити";
+"Next" = "Далі";
+
+
+// LOGIN PAGE
+"Login" = "Вхід";
+"Email" = "Eлектронна пошта";
+"Password" = "Парроль";
+"Reset" = "Забули пароль?";
+"Error" = "Помилка";
+"Wrong" = "Щось пішло не так";
+
+
+// Register PAGE
+"Register" = "Реєстрація";
+"Firstname" = "Ваше ім'я";
+"Lastname" = "Ваше Прізвище";
+"Petname" = "Ім'я тварини";
+"Signup" = "Реєстрація";
+"Pet" = "Pet Name";
+"Addpetlater" = "Додати ще одну тварину Ви зможете пізнише";
+
+
+// PROFILE PAGE
+"Profile" = "Профіль";
+"YourInformation" = "Персональна інформація";
+"PetInformation" = "Інформація про тварину";
+"Addanotherpet" = "Додати ще тварину";
+"System" = "Система";
+"Theme" = "Темна тема";
+"Logout" = "Вийти з акаунту";
+
+
+// MAIN MENU
+"HealthCalendar" = "Календар здоров'я";
+"Additionally" = "Додатково";
+
+"RemindersTitle" = "Нагадування";
+"RemindersSubTitle" = "Не пропустіть важні події! Встановлюйте нагадування для ділових справ, пов'язаних з вашими улюбленцями.";
+"NotesTitle" = "Нотатки";
+"NotesSubTitle" = "Зберігайте важливі відомості про вашого улюбленця, щоб мати все під контролем.";
+"LocationTitle" = "Локація";
+"LocationSubTitle" = "Знайдіть найкращі місця для прогулянок з вашими тваринами. Отримуйте рекомендації щодо парків, відкритих просторів та інших місць, де ваші улюбленці можуть зустрітися з новими друзями та насолодитися активним життям.";
+"NewsAndTipsTitle" = "Новини та поради";
+"NewsAndTipsSubTitle" = "Будьте в курсі останніх новин та отримуйте цінні поради про догляд за тваринами.";
+
+
+// REMINDER
+"Reminder" = "Нагадування";
+"Today" = "Сьогодні";
+"Upcoming" = "Скоро";
+"TaskDone" = "Виконані";
+"AddTask" = "Створити";
+"EditTask" = "Деталі";
+"Cancel" = "Скасувати";
+"Save" = "Зберегти";
+"NoReminders" = "Немає нагадувань";
+"Remove" = "Видалити";
+"Date" = "Дата";
+"SelectDate" = "Оберіть дату";
+"Title" = "Назва";
+"WriteTitle" = "Введіть назву";
+"Color" = "Колір";
+
+
+// NOTES
+"Notes" = "Нотатки";
+"AddNote" = "Створити";
+"NoteTitle" = "Дайте своїй нотатці назву";
+
+
+//LOCATION
+"Location" = "Локації";
+"Search" = "Пошук";
+"Categories" = "Категорії";
+"ViewAll" = "Всі";
+"VetClinic" = "Ветклініки";
+"Park" = "Парки";
+"Coffee" = "Кав'ярні pet friendly";
+"Shelters" = "Притулки";
+
+
+//NEWS AND ADVICE
+"NewsAnd" = "Новини та поради";
+"AnimalInfo" = "Дізнайтесь більше про тваринний світ: National Geographic Animals";
+"CareRecommendations" = "Рекомендації щодо догляду";
+"HelpAnimals" = "ДОПОМОГА ТВАРИНАМ";
+
+
+//SHOP
+"NameShop" = "Магазин";
+"Details" = "Деталі";
+"ActiveOrder" = "Замовлення";
+"PastOrder" = "Історія";
+"Quantity" = "Кількість: ";
+"Order" = "Замовити";
+"FeedDog" = "Корм для собак";
+"FeedCat" = "Корм для котів";
+"FeedFish" = "Корм для риб";
+
+
+//ANIMAL CARE
+"Dog" = "Собака";
+"Cat" = "Кіт";
+"Parrot" = "Папуга";
+"Rodents" = "Гризуни";
+//Dog
+"Bulldog" = "Бульдог";
+"Labrador" = "Лабрадор";
+"Husky" = "Хаскі";
+"Spitz" = "Шпіц";
+"Poodle" = "Пудель";
+"Beagle" = "Бігль";
+"Rottweiler" = "Ротвейлер";
+//Cat
+"Persian" = "Персидська";
+"Siamese" = "Сіамська";
+"MaineCoon" = "Мейн-кун";
+"Sphinx" = "Сфінкс";
+"Bengal" = "Бенгальська";
+//Parrot
+"Macaw" = "Ара";
+"Lovebird" = "Неразлучник";
+"Cockatoo" = "Какаду";
+//Rodents
+"Hamster" = "Хом'як";
+"Mice" = "Миші";
+"Rabbit" = "Кролик";
+"Rat" = "Щур";
+"Mole" = "Кріт";
+
+"ChooseAnimal" = "Оберіть тваринку";
+"ChooseBreed" = "Оберіть породу";
+"GoTips" = "Перейти до порад";
+"Advice" = "Поради";
+"ForBreed" = "Для породи";
+
+//DogCareView
+"Food" = "Харчування";
+"Cleaning" = "Прибирання";
+"Grooming" = "Гігієна шерсті";
+"Vaccination" = "Щеплення";
+"Exercise" = "Активність";
+"Health" = "Здоров'я";
+
+"FoodSubTitle" = "Забезпечте вашому вихованцю збалансоване харчування, враховуючи вік, розмір, породу та активність. Також забезпечте постійний доступ до чистої прісної води.";
+"CleaningSubTitle" = "Регулярно чистіть миску для їжі та води, а також миску для іграшок.";
+"GroomingSubTitle" = "Купайте періодично свого вихованця, використовуючи спеціальний собачий шампунь. Регулярно розчісуйте шерсть, особливо для довгошерстних порід, щоб уникнути заплутаності і вовняних шарів.";
+"VaccinationSubTitle" = "Регулярно відвідуйте ветеринара для щеплень, дезпаразитації та огляду вашого вихованця.";
+"ExerciseSubTitle" = "Забезпечте вашому вихоанцю достатню фізичну активність. Соціалізуйте свою його, забезпечуючи зустрічі з іншими тваринами і людьми.";
+"HealthSubTitle" = "Слідкуйте за змінами у поведінці, апетиті, шкірі та інших фізичних ознаках вагошо вихованця. Надайте вашій достатньо любові, уваги та позитивного підсилення.";
+
+
+"SimpleHelp" = "проста допомога";
+"TypeHere" = "Введіть запит...";
+
+//PET ACTIVITY
+"Pet Activity" = "Pet Activity";
+"TrackManageActivity" = "Track and manage your pet's activity";
+"Resume" = "Resume";
+"Pause" = "Pause";
+"Stop" = "Start";
+"Statistics" = "Statistics";
+"Activity" = "Активність";
+"ActivitySave" = "Відслідковуйте активність вихованця";
+
+//Reset Password
+"SendPasswordReset" = "Надіслати відновлення паролю";
+"ResetPassword" = "Скинути пароль";
+"PetActivity" = "Активність";
+"TrackManage" = "Відстежуйте aктивність свого вихованця";
+
+"Resume" = "Продовжити";
+"Pause" = "Пауза";
+"Stop" = "Стоп";
+"Start" = "Старт";
+"Statistics" = "Статистика";

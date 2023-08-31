@@ -1,0 +1,192 @@
+/* 
+  Localizable.strings
+  PetPal
+
+  Created by Andrew on 21.05.2023.
+  
+*/
+
+//WELCOME PAGES Screen 1
+"welcomeTitlePageOne" = "find friends and take care of them";
+"welcomeSubTitlePageOne" = "PetPal is a mobile application that helps pet owners find new friends for their pets and provide them with better care.";
+
+//WELCOME PAGES Screen 2
+"welcomeTitlePageTwo" = "Take care of your pets easily";
+"welcomeSubTitlePageTwo" = "With PetPal, you can provide your pets with comprehensive care.";
+
+//WELCOME PAGES Screen 3
+"welcomeTitlePageThree" = "Convenient access to services";
+"welcomeSubTitlePageThree" = "PetPal helps you find the best professionals, such as veterinarians, groomers and pet sitters.";
+
+//WELCOME PAGES BUTTON
+"Continue" = "Continue";
+"Next" = "Next";
+
+//WELCOME PAGES BUTTON
+"Continue" = "Continue";
+"Next" = "Next";
+
+
+// LOGIN PAGE
+"Login" = "Login";
+"Email" = "Email";
+"Password" = "Password";
+"Reset" = "Forgot password?";
+"Error" = "Error";
+"Wrong" = "Something went wrong";
+
+
+// Register PAGE
+"Register" = "Register";
+"Firstname" = "First Name";
+"Lastname" = "Last Name";
+"Petname" = "Pet Name";
+"Signup" = "Sign up";
+"Pet" = "Pet";
+"Addpetlater" = "You can add another pet later";
+
+// PROFILE PAGE
+"Profile" = "Profile";
+"YourInformation" = "Your Information";
+"PetInformation" = "Pet Information";
+"Addanotherpet" = "Add another pet";
+"System" = "System";
+"Theme" = "Dark theme";
+"Logout" = "Logout";
+
+
+// MAIN MENU
+"HealthCalendar" = "Health Calendar";
+"Additionally" = "Additionally";
+
+"RemindersTitle" = "Reminders";
+"RemindersSubTitle" = "Never miss important events! Set reminders for feeding time, walks, vet visits, and other pet-related tasks.";
+"NotesTitle" = "Notes";
+"NotesSubTitle" = "Keep important information about your pet. Maintain records of medical procedures, diets, training, and any other observations to stay organized.";
+"LocationTitle" = "Location";
+"LocationSubTitle" = "Discover the best places for walks with your pets. Get recommendations for parks, open spaces, and other pet-friendly locations where your furry friends can meet new buddies and enjoy an active lifestyle.";
+"NewsAndTipsTitle" = "News and Tips";
+"NewsAndTipsSubTitle" = "Stay up-to-date with the latest news and receive valuable tips on pet care.";
+
+
+// REMINDER
+"Reminder" = "Reminder";
+"Today" = "Today";
+"Upcoming" = "Upcoming";
+"TaskDone" = "Task Done";
+"AddTask" = "Add Task";
+"EditTask" = "Edit Task";
+"Cancel" = "Cancel";
+"Save" = "Save";
+"NoReminders" = "No reminders";
+"Remove" = "Remove";
+"Date" = "Date";
+"SelectDate" = "SelectDate";
+"Title" = "Title";
+"WriteTitle" = "Write Title";
+"Color" = "Color";
+
+
+// NOTES
+"Notes" = "Notes";
+"AddNote" = "Add Note";
+"NoteTitle" = "Give your note a title";
+
+
+//LOCATION
+"Location" = "Location";
+"Search" = "Search";
+"Categories" = "Categories";
+"ViewAll" = "View All";
+"VetClinic" = "Veterinary clinics";
+"Park" = "Parks";
+"Coffee" = "Coffee shops - pet friendly";
+"Shelters" = "Shelters";
+
+
+//NEWS AND ADVICE
+"NewsAnd" = "News And Advice";
+"AnimalInfo" = "Learn more about the animal world: National Geographic Animals";
+"CareRecommendations" = "Care recommendations";
+"HelpAnimals" = "HELP ANIMALS";
+
+
+//SHOP
+"NameShop" = "Shop";
+"Details" = "Details";
+"ActiveOrder" = "Order";
+"PastOrder" = "History";
+"Quantity" = "Quantity: ";
+"Order" = "Order";
+"FeedDog" = "Food for dogs";
+"FeedCat" = "Food for cats";
+"FeedFish" = "Food for fish";
+
+
+//ANIMAL CARE
+"Dog" = "Dog";
+"Cat" = "Cat";
+"Parrot" = "Parrot";
+"Rodents" = "Rodents";
+//Dog
+"Bulldog" = "Bulldog";
+"Labrador" = "Labrador";
+"Husky" = "Husky";
+"Spitz" = "Spitz";
+"Poodle" = "Poodle";
+"Beagle" = "Beagle";
+"Rottweiler" = "Rottweiler";
+//Cat
+"Persian" = "Persian";
+"Siamese" = "Siamese";
+"MaineCoon" = "Maine Coon";
+"Sphinx" = "Sphinx";
+"Bengal" = "Bengal";
+//Parrot
+"Macaw" = "Macaw";
+"Lovebird" = "Lovebird";
+"Cockatoo" = "Cockatoo";
+//Rodents
+"Hamster" = "Hamster";
+"Mice" = "Mice";
+"Rabbit" = "Rabbit";
+"Rat" = "Rat";
+"Mole" = "Mole";
+
+"ChooseAnimal" = "Choose animal";
+"ChooseBreed" = "Choose breed";
+"GoTips" = "Go to tips";
+"Advice" = "Advice";
+"ForBreed" = "For the breed";
+
+//DogCareView
+"Food" = "Food";
+"Cleaning" = "Cleaning";
+"Grooming" = "Grooming";
+"Vaccination" = "Vaccination";
+"Exercise" = "Exercise";
+"Health" = "Health";
+
+"FoodSubTitle" = "Provide your pet with a balanced diet, taking into account age, size, breed and activity. Also ensure constant access to clean, fresh water.";
+"CleaningSubTitle" = "Clean the food and water bowls and toy bowls regularly.";
+"GroomingSubTitle" = "Bathe your pet periodically using a special dog shampoo. Brush the coat regularly, especially for long-haired breeds, to avoid tangles and wool layers.";
+"VaccinationSubTitle" = "Visit the vet regularly for vaccinations, deworming and check-ups of your pet.";
+"ExerciseSubTitle" = "Provide your child with sufficient physical activity. Socialize your pooch by providing encounters with other animals and people.";
+"HealthSubTitle" = "Watch for changes in your pet's behavior, appetite, skin, and other physical signs. Give yours plenty of love, attention, and positive reinforcement.";
+
+
+"SimpleHelp" = "Simple help";
+"TypeHere" = "Type here...";
+
+
+//Reset Password
+"SendPasswordReset" = "Send Password Reset";
+"ResetPassword" = "Reset Password";
+
+"PetActivity" = "Pet Activity";
+"TrackManage" = "Track and manage your pet's activity";
+"Resume" = "Resume";
+"Pause" = "Pause";
+"Stop" = "Stop";
+"Start" = "Start";
+"Statistics" = "Statistics";
